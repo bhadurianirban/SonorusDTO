@@ -9,7 +9,7 @@ package org.sonorus.core.dto;
  *
  * @author dgrfiv
  */
-public class SpeechEmoResultsMeta {
+public class SonorusResultsMeta {
     public static String DATASERIES = "dataseries";
     public static String EMOTION = "emotion";
     public static String MFDFA_INSTANCE = "mfdfainstance";

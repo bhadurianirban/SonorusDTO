@@ -14,7 +14,7 @@
         </dependency>
         <dependency>
             <groupId>org.patronus</groupId>
-            <artifactId>FractalDTO</artifactId>
+            <artifactId>PatronusDTO</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
